@@ -1,5 +1,12 @@
 # Change Log
 
+## [5.3.2](https://github.com/hairyhenderson/gomplate/compare/v5.3.1...v5.3.2) (2026-10-22)
+
+
+### Bug Fixes
+
+* **gomod:** update module github.com/aws/aws-sdk-go-v2/service/ec2 to v1.339.0 ([#2894](https://github.com/hairyhenderson/gomplate/issues/2894)) ([67029b3](https://github.com/hairyhenderson/gomplate/commit/67029b39d77aaa88db56b904662acbc559e81edb))
+
 ## [5.3.1](https://github.com/hairyhenderson/gomplate/compare/v5.3.0...v5.3.1) (2026-10-21)
 
 
